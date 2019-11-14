@@ -34,6 +34,7 @@ section figure figcaption {
 /*Update the text block */
 section#featured-property {
   text-align: center;
+  background-color: grey;
 }
 #featured-property p {
   max-width: 800px;
