@@ -55,9 +55,9 @@ section#details {
 
 /*As a finishing*/
 div#details{
-  float:left;
+  float: left;
   text-align: center;
-  display: flex;
+  display: block;
   justify-content: space-between;
 }
 /**/
