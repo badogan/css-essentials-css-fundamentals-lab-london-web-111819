@@ -29,6 +29,7 @@ a {
 
 section#featured-property{
   text-align: center;
+  max-width: 900px;
 }
 
 section#featured-property ~ figcaption {
