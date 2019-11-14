@@ -26,7 +26,7 @@ a {
 }
 
 /*Our image caption...*/
-section#featured-property figure figcaption {
+section#featured-property ~ figcaption {
   text-align: center;
   font-size: 22px
 }
