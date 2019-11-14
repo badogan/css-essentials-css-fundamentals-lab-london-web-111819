@@ -32,7 +32,7 @@ section figure figcaption {
 }
 
 /*Update the text block */
-#featured-property section {
+section#featured-property {
   text-align: center;
 }
 #featured-property p {
