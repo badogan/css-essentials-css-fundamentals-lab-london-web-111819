@@ -47,7 +47,7 @@ p#featured-property {
 }
 
 /*Make our details section horizontal */
-#details {
+section#details {
   display:block;
 }
 
