@@ -26,6 +26,11 @@ a {
 }
 
 /*Our image caption...*/
+
+section#featured-property{
+  text-align: center;
+}
+
 section#featured-property ~ figcaption {
   text-align: center;
   font-size: 200px
