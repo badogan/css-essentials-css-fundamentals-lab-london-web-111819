@@ -36,7 +36,7 @@ section figure figcaption {
 section#featured-property {
   text-align: center;
   font-size:30;
-  background-color: grey;
+  background-color: red;
   max-width: 80px;
 }
 p#featured-property {
