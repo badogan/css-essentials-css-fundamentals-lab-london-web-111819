@@ -37,6 +37,7 @@ section#featured-property {
   text-align: center;
   font-size:30;
   background-color: grey;
+  max-width: 80px;
 }
 p#featured-property {
   max-width: 80px;
