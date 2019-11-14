@@ -55,11 +55,8 @@ section#details {
   text-align: center;
 }
 
-#details div {
-  float:left;
-}
 /*As a finishing*/
-#details div {
+div#details{
   float:left;
   text-align: center;
   display: flex;
