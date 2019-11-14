@@ -39,7 +39,6 @@ section#featured-property {
 }
 p#featured-property {
   max-width: 800px;
-  text-align: center;
   display: block;
   margin: 0 auto;
 }
