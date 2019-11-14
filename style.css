@@ -48,7 +48,11 @@ p#featured-property {
 
 /*Make our details section horizontal */
 section#details {
-  display:block;
+  display: block;
+  margin: 0 auto;
+  background-color: green;
+  max-width: 900px;
+  text-align: center;
 }
 
 #details div {
