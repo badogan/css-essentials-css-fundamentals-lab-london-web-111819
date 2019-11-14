@@ -31,7 +31,7 @@ section#featured-property ~ figcaption {
   font-size: 200px
 }
 
-/*Update the text block */
+/*Update the text block 
 section#featured-property {
   display: block;
   margin: 0 auto;
@@ -46,14 +46,14 @@ section#featured-property p {
   text-align: center;
 }
 
-/*Make our details section horizontal */
+/*Make our details section horizontal
 section#details {
   display: block;
   margin: 0 auto;
   text-align: center;
 }
-
-/*As a finishing*/
+*/
+/*As a finishing
 div#details{
   float: left;
   text-align: center;
